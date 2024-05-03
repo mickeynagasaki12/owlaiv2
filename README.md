@@ -2,8 +2,9 @@
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/owlai01.png?lenght=50width=50)](https://github.com/owlai01)|
+| [![Fortunatus Mokaya](https://github.com/mickeynagasaki12/KRATOS-MD-/kratos.jpeg?lenght=50width=50)](https://github.com/kratos.jpeg)|
 |----|
+
 
 
 # DISCLAIMER
